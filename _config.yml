@@ -4,15 +4,15 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: M2237.co
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
-org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+  Putting Christ First in AI Research - Mathew 22:37 
+  org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
+  As followers of Christ, we are called to engage the world around us with the unchanging gospel message of hope, reconciliation and love for our neighbors. Tools like technology are able to aid us in learning and understanding what it means to live according to the scripture. Advances in technology and research have alowed our generation to expierence the word, and miracles of our creater at an uncomprehendable scale. We know technology can also be designed and used in ways that dishonor God and devalue our fellow image-bearers. Evangelical Christians hold fast to the inerrant and infallible Word of God, which states that every human being is made in God’s image and thus has infinite value and worth in the eyes of their Creator. Our research relates to how we all view God, ourselves, and the tools that God has given us the ability to create. Every day, artificial Intelligence becomes more advanced and technology research becomes faster. As we learn more about artificial intelligence, it learns more about us as well. We are scientists, computer programmers, tech enthusiests, and AI research engineers, but above all else, we are followers of Christ. As we move into a new era of technologial innovation, our mission is to preserve the word of God and the message of Christ our Savior. Matthew 28:18-20
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
+org_general_email_inbox: Send us your Blessing
 org_street_address: 1355 Market Street #Please include suite number on the line below
 org_address_suite: Suite 900
 org_city: San Francisco
@@ -23,8 +23,8 @@ org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (123) 456-7890
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
+org_twitter_username: M2237
+org_facebook_username: M2237
 org_instagram_username:
 
 #TAX STATUS
@@ -47,7 +47,7 @@ publish: false
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
-theme_color: default
+theme: default
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
@@ -69,5 +69,3 @@ smartergiving_id: #Not yet available
 #mailchimp_embed_code: > # Enter Mailchimp post url on next line.
 #  //getkyn.us5.list-manage.com/subscribe/post?u=1407d7ee4cd0d47986cd54315&amp;id=cdc32b64fe
 #mailchimp_spam_guard: b_753395b9f963c9ea2d6980b7c_9e1559c2f0
-
-theme: jekyll-theme-minimal
